@@ -92,14 +92,14 @@ git clone https://github.com/YOUR_USERNAME/recycling-manager-selection-dashboard
 cd recycling-manager-selection-dashboard
 
 2. Frontend
+```
 cd dashboard
 npm install
 npm run dev
 
+```
 
 Open: http://localhost:5173
-
-```
 
 📁 Project Structure
 ai-prompts/        → AI evaluation prompts
@@ -110,11 +110,10 @@ sql/               → Schema and sample data
 
 ✅ Notes
 
-```
 No paid APIs required
 
 No backend server required
 
 Designed for clarity, auditability, and extensibility
 
-```
+
