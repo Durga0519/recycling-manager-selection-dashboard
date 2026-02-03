@@ -90,9 +90,10 @@ Built with **React + Vite + Mantine UI**
 ```bash
 git clone https://github.com/YOUR_USERNAME/recycling-manager-selection-dashboard.git
 cd recycling-manager-selection-dashboard
-
-2. Frontend
 ```
+
+### 2. Frontend
+```bash
 cd dashboard
 npm install
 npm run dev
@@ -115,5 +116,6 @@ No paid APIs required
 No backend server required
 
 Designed for clarity, auditability, and extensibility
+
 
 
