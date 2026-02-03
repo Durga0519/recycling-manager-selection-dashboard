@@ -99,6 +99,8 @@ npm run dev
 
 Open: http://localhost:5173
 
+```
+
 📁 Project Structure
 ai-prompts/        → AI evaluation prompts
 dashboard/         → React + Vite frontend
@@ -108,8 +110,11 @@ sql/               → Schema and sample data
 
 ✅ Notes
 
+```
 No paid APIs required
 
 No backend server required
 
 Designed for clarity, auditability, and extensibility
+
+```
